@@ -850,7 +850,7 @@ a {
 /* --------custom--------- */
 .index-title {
   font-family: 'Space Grotesk', sans-serif;
-  font-size: 5rem;
+  font-size: 4rem;
   font-weight: 700;
   line-height: 1;
   margin-bottom: 1.2rem;
@@ -859,7 +859,7 @@ a {
 
 .index-subtitle {
   font-family: 'Space Grotesk', sans-serif;
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 700;
   line-height: 0.9;
   margin-bottom: 1.2rem;
