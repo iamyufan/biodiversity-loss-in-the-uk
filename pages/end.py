@@ -52,6 +52,9 @@ layout = html.Div(
                      html.Div(className='five columns div-user-controls', children=[
                          html.H2('Contacts:'),
                          html.A('yufanbruce@outlook.com', href='yufanbruce@outlook.com', style={"padding-left": "1rem", 'font-size': '2rem'}),
+                         html.Div(style={'margin-top': '20px'}),
+                         html.H2('Creative Element Part II: VR Demo:'),
+                    html.Iframe(src="https://www.youtube.com/embed/heh5uxV7a14", width="600", height="300", style={"padding-left": "1rem"}, allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"),
                      ]),
                  ]),
         html.Div(className='two columns', children=[
