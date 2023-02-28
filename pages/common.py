@@ -1,6 +1,6 @@
 from dash import dcc, html, Input, Output, callback
 
-base_url = "/projects/gender-gap-in-film/demo"
+base_url = "/biodiversity"
 
 
 nav = html.Div(
