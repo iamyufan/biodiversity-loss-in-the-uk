@@ -14,7 +14,7 @@ layout = html.Div(
                               children=[
                                   html.H1('ENVIR 101 Team Project',
                                           className='index-subtitle'),
-                                  html.H1('A Glance into Biodiversity Loss in the UK', style={
+                                  html.H1('A Glance into Biodiversity Loss in UK', style={
                                         'background-color': '#7de3e5', 'max-width': '100%'}, className='index-title'),
                                   html.H1('Creative Element Part I: Data Visualization', style={},
                                           className='index-subtitle'),

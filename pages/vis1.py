@@ -40,7 +40,7 @@ fig = go.Figure([
 fig.update_layout(
     width=800,
     height=600,
-    yaxis_title='Index (1907=100)',
+    yaxis_title='Index (1970=100)',
     title='Relative abundance of priority species in the UK (1970 to 2019)',
     hovermode="x",
     plot_bgcolor='white',   # Set the background color of the plot area
@@ -69,6 +69,9 @@ layout = html.Div(
                                       '- Actions to conserve them are included within the respective countries’ biodiversity or environment strategies.'),
                                   html.P(
                                       '- By 2019, the index of relative abundance of priority species in the UK had declined to 39% of its base-line value in 1970.'),
+                                  html.P(
+                                      '- Check out our implementation of this diagram in Virtual Reality (VR):'),
+                                  html.A('Demo on YouTube', href='https://youtu.be/heh5uxV7a14', style={'font-size': '1.5rem', 'padding-left': '2rem', 'font-weight': '700'}),
                                   html.Div(style={'margin-top': '20px'}),
                                   html.Div(
                                       children=[
