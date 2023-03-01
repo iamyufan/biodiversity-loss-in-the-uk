@@ -4,7 +4,7 @@ Creative Element of the Team Project, ENVIR 101, Duke Kunshan University
 
 **Authors**: [Yufan Zhang](http://yufanbruce.com), Aleksandra Stryjska, Yutong Ren, Jinxuan Zhang
 
-You can access our demo at [http://yufanbruce.com/biodiversity/].
+You can access our demo [here](http://yufanbruce.com/biodiversity/).
 
 ---
 
