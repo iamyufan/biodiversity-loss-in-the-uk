@@ -6,8 +6,6 @@ Creative Element of the Team Project, ENVIR 101, Duke Kunshan University
 
 You can access our demo [here](http://yufanbruce.com/biodiversity/).
 
----
-
 ## How to run
 
 1. Install required packages
@@ -24,8 +22,6 @@ You can access our demo [here](http://yufanbruce.com/biodiversity/).
   ```bash
   python3 app.py
   ```
-  
- ---
  
  ## Acknowledgements
  
